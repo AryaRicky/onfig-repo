@@ -1,0 +1,5 @@
+data:
+  env: config-dev
+  user:
+    username: ljg
+    password: 123456
