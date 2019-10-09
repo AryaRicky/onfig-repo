@@ -1,5 +1,5 @@
 data:
-  env: config-test1
+  env: config-test
   user:
     username: ljg
     password: 123456
